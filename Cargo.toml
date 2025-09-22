@@ -9,3 +9,4 @@ description = "Rust on the client. Less than 800 lines of code. No dependencies.
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# drop an unused branch
