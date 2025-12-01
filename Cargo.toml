@@ -12,3 +12,4 @@ description = "Rust on the client. Less than 800 lines of code. No dependencies.
 # drop an unused branch
 # guard against empty input
 # handle the edge case from the last release
+# avoid re-reading the config on every call
