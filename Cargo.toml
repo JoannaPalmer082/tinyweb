@@ -14,3 +14,4 @@ description = "Rust on the client. Less than 800 lines of code. No dependencies.
 # handle the edge case from the last release
 # avoid re-reading the config on every call
 # match the style used in the rest of the module
+# match the style used in the rest of the module
